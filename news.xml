@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Meka Academy - Latest Articles</title>
+  <link>https://mekaacademy-sandbox.mxapps.io/</link>
+  <description>The latest articles from Meka Academy.</description>
+  <language>pt-br</language>
+  <lastBuildDate>Thu, 30 Oct 2025 12:30:42 -0300</lastBuildDate>
+  
+  <item>
+    <title>Como escolher tags analíticas para o PIMS</title>
+    <link>https://mekaacademy-sandbox.mxapps.io/#</link>
+    <description><![CDATA[Em projetos de digitalização industrial, um dos erros mais comuns é acreditar que quanto mais dados coletados, melhor. Mas a verdadeira inteligência industrial não vem da quantidade — e sim da qualidade e relevância das informações que alimentam o sistema.]]></description>
+    <category>Tecnologia da Automação</category>
+    <pubDate>Thu, 30 Oct 2025 12:30:42 -0300</pubDate>
+    <guid isPermaLink="false">https://mekaacademy-sandbox.mxapps.io/#article1</guid>
+  </item>
+  
+  <item>
+    <title>Modelagem Matemática para Cálculo da Saúde de Válvulas Industriais</title>
+    <link>https://mekaacademy-sandbox.mxapps.io/#</link>
+    <description><![CDATA[Implantar, em escala industrial, um sistema matemático de avaliação contínua de saúde de válvulas (controle e on/off), integrando instrumentação, aquisição de dados, modelos físicos + estatísticos/ML, índices de saúde, RUL (Remaining Useful Life) e gatilhos de manutenção preditiva. O resultado é red]]></description>
+    <category>Tecnologia da Automação</category>
+    <pubDate>Wed, 08 Oct 2025 22:11:00 -0300</pubDate>
+    <guid isPermaLink="false">https://mekaacademy-sandbox.mxapps.io/#article2</guid>
+  </item>
+  
+  <item>
+    <title>Tractian | OPC UA | Integração da API Tractian com Servidor OPC UA via Node-RED para Coleta e Registro de Dados de Fábrica</title>
+    <link>https://mekaacademy-sandbox.mxapps.io/#</link>
+    <description><![CDATA[Descrição do processo de integração e automação na coleta de dados de consumo energético da Tractian, armazenamento em banco e registro contínuo em servidor OPC UA, mostrando benefícios operacionais para fábricas parceiras da Mekatronik.]]></description>
+    <category>Transformação Digital</category>
+    <pubDate>Wed, 08 Oct 2025 13:49:00 -0300</pubDate>
+    <guid isPermaLink="false">https://mekaacademy-sandbox.mxapps.io/#article3</guid>
+  </item>
+  
+  <item>
+    <title>Correção da Comunicação entre o WinCC Explorer e o CLP no Sistema Supervisório da Pirelli</title>
+    <link>https://mekaacademy-sandbox.mxapps.io/#</link>
+    <description><![CDATA[Atendimento técnico realizado para restabelecer a comunicação e corrigir parâmetros críticos entre o software supervisório WinCC Explorer e o CLP da Infladora na linha 1 da Pirelli.]]></description>
+    <category>Tecnologia da Automação</category>
+    <pubDate>Wed, 08 Oct 2025 11:25:00 -0300</pubDate>
+    <guid isPermaLink="false">https://mekaacademy-sandbox.mxapps.io/#article4</guid>
+  </item>
+  
+  <item>
+    <title>A Importância do Monitoramento de Switches Industriais no Zabbix: Garantindo a Visibilidade e a Resiliência da Rede de Automação Industrial</title>
+    <link>https://mekaacademy-sandbox.mxapps.io/#</link>
+    <description><![CDATA[Este artigo destaca a relevância do monitoramento proativo de switches industriais, como o Stratix 5200, utilizando a plataforma Zabbix para assegurar a continuidade, desempenho e segurança da rede de automação industrial.]]></description>
+    <category>Tecnologia da Informação</category>
+    <pubDate>Wed, 08 Oct 2025 07:56:00 -0300</pubDate>
+    <guid isPermaLink="false">https://mekaacademy-sandbox.mxapps.io/#article5</guid>
+  </item>
+  
+</channel>
+</rss>
