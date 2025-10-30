@@ -4,9 +4,9 @@
   <title>Meka Academy - Latest Articles</title>
   <link>https://mekaacademy-sandbox.mxapps.io/</link>
   <description>The latest articles from Meka Academy.</description>
-  <language>pt-br</language>
-  <lastBuildDate>Thu, 30 Oct 2025 12:30:42 -0300</lastBuildDate>
-  
+<language>en</language>
+<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml"/>
+
   <item>
     <title>Como escolher tags analíticas para o PIMS</title>
     <meta property="og:image" content="https://www.mekatronik.com.br/wp-content/themes/mekatronik/assets/images/og-image.png"/>
